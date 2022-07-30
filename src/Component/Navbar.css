@@ -1,0 +1,6 @@
+.my-btn {
+  height: 35px;
+  width: 35px;
+  border: 2px solid black !important;
+  border-radius: 50% !important;
+}
